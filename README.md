@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @louise-wise
-- 👀 I’m interested in building a fanbase for my books.
-- 🌱 I’m currently learning how to market in a world that's digital.
-- 💞️ I’m looking to collaborate on marketing with other like-minded authors.
-- 📫 How to reach me info@louisewise.uk
-- 😄 Pronouns: Don't give me that rubbish.
-- ⚡ Fun fact: I beleive in simulation. 
+👋 Hi, I’m @louise-wise
+📚 Author of sci-fi, romcoms, and everything in between.
+🌐 Learning the ropes of digital marketing (slowly, painfully).
+🤝 Keen to connect and collaborate with fellow indie authors—especially those who actually want to share, not just shout into the void.
+📩 Reach me at: info@louisewise.uk
+😄 Pronouns? Let’s not.
+🧠 Fun fact: I think we’re all living in a simulation—and no, I’m not joking.
 
 <!---
 louise-wise/louise-wise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
